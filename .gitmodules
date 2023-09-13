@@ -1,0 +1,3 @@
+[submodule "Submodulo2"]
+	path = Submodulo2
+	url = https://github.com/oscarpg98/DSFSubmodule
